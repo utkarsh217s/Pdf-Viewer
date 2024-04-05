@@ -1,0 +1,22 @@
+.customboi{
+  width: 310px;
+  border: 1px solid #000000; 
+}  
+
+.exper{
+  width: 500px;
+  margin-top: 70px;
+}  
+
+.entry{
+  margin-left: 100px;
+  overflow-y: auto;
+  height: 800px;
+} 
+
+.title{
+  font-size: 70px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 20px;
+}
