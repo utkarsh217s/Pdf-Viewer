@@ -46,7 +46,7 @@ function PdfViewer() {
   <Button color='primary' onClick={Zoomout}>Zoom out</Button> </>)
  }
     <Row>
-    <Col lg="4" xs="12"> 
+    <Col lg="4" xs="12" className="flex-column"> 
     <div className='entry'>  
       {file && (
         <Document file={file} onLoadSuccess={onDocumentLoadSuccess}>
